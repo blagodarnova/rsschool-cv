@@ -83,4 +83,4 @@ Management, project management
 ## Languages:
 
 * Russian - Native
-* English - Pre-Intermediate (CEFR A2+).
+* English - Pre-Intermediate (CEFR A2+)
