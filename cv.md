@@ -69,7 +69,7 @@ Design, General Designer
 2019
 
 State University of Management, Moscow General Institute.\
-Management, project management
+Management, Project management
 ## Courses
 1. Html Academy COURSE "START IN THE FRONTEND"
 2. Html Academy “DIVING INTO LAYOUT COURSE”
